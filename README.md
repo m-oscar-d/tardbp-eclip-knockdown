@@ -1,4 +1,4 @@
-#Do TDP-43's direct RNA targets respond to knockdown?
+# Do TDP-43's direct RNA targets respond to knockdown?
 
 TDP-43 (TARDBP) is the RNA-binding protein central to ALS. When it is knocked
 down, thousands of genes change expression — but most of those changes may be
